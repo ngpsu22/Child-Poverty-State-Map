@@ -1,0 +1,307 @@
+,state,ca_monthly,age_group,poverty_rate
+576,Alabama,0,child,17.0
+579,Alabama,100,child,13.8
+582,Alabama,200,child,10.3
+585,Alabama,300,child,8.0
+588,Alabama,400,child,5.7
+591,Alabama,500,child,5.0
+882,Alaska,0,child,15.2
+885,Alaska,100,child,12.2
+888,Alaska,200,child,10.6
+891,Alaska,300,child,8.9
+894,Alaska,400,child,7.9
+897,Alaska,500,child,7.1
+774,Arizona,0,child,14.8
+777,Arizona,100,child,11.3
+780,Arizona,200,child,7.9
+783,Arizona,300,child,6.3
+786,Arizona,400,child,4.9
+789,Arizona,500,child,3.6
+612,Arkansas,0,child,13.9
+615,Arkansas,100,child,10.0
+618,Arkansas,200,child,7.3
+621,Arkansas,300,child,5.8
+624,Arkansas,400,child,5.0
+627,Arkansas,500,child,3.3
+864,California,0,child,20.8
+867,California,100,child,17.2
+870,California,200,child,13.5
+873,California,300,child,10.5
+876,California,400,child,8.7
+879,California,500,child,7.1
+738,Colorado,0,child,10.5
+741,Colorado,100,child,8.7
+744,Colorado,200,child,5.9
+747,Colorado,300,child,4.6
+750,Colorado,400,child,3.8
+753,Colorado,500,child,2.6
+90,Connecticut,0,child,16.1
+93,Connecticut,100,child,14.9
+96,Connecticut,200,child,11.8
+99,Connecticut,300,child,8.9
+102,Connecticut,400,child,8.3
+105,Connecticut,500,child,6.6
+378,Delaware,0,child,10.9
+381,Delaware,100,child,9.0
+384,Delaware,200,child,7.9
+387,Delaware,300,child,5.7
+390,Delaware,400,child,4.7
+393,Delaware,500,child,4.1
+414,District of Columbia,0,child,22.1
+417,District of Columbia,100,child,18.7
+420,District of Columbia,200,child,13.9
+423,District of Columbia,300,child,10.5
+426,District of Columbia,400,child,9.0
+429,District of Columbia,500,child,6.8
+522,Florida,0,child,19.6
+525,Florida,100,child,15.3
+528,Florida,200,child,12.0
+531,Florida,300,child,9.8
+534,Florida,400,child,8.3
+537,Florida,500,child,6.4
+504,Georgia,0,child,17.0
+507,Georgia,100,child,14.4
+510,Georgia,200,child,10.8
+513,Georgia,300,child,8.3
+516,Georgia,400,child,7.0
+519,Georgia,500,child,4.7
+900,Hawaii,0,child,16.1
+903,Hawaii,100,child,13.5
+906,Hawaii,200,child,9.7
+909,Hawaii,300,child,7.0
+912,Hawaii,400,child,6.6
+915,Hawaii,500,child,4.4
+702,Idaho,0,child,7.6
+705,Idaho,100,child,5.0
+708,Idaho,200,child,3.6
+711,Idaho,300,child,2.6
+714,Idaho,400,child,2.1
+717,Idaho,500,child,1.8
+198,Illinois,0,child,14.1
+201,Illinois,100,child,10.7
+204,Illinois,200,child,8.3
+207,Illinois,300,child,5.8
+210,Illinois,400,child,4.5
+213,Illinois,500,child,3.1
+180,Indiana,0,child,12.4
+183,Indiana,100,child,9.3
+186,Indiana,200,child,7.4
+189,Indiana,300,child,5.0
+192,Indiana,400,child,3.7
+195,Indiana,500,child,2.8
+270,Iowa,0,child,7.4
+273,Iowa,100,child,6.0
+276,Iowa,200,child,4.3
+279,Iowa,300,child,3.1
+282,Iowa,400,child,2.6
+285,Iowa,500,child,2.0
+360,Kansas,0,child,7.8
+363,Kansas,100,child,5.8
+366,Kansas,200,child,4.9
+369,Kansas,300,child,4.0
+372,Kansas,400,child,2.6
+375,Kansas,500,child,2.0
+540,Kentucky,0,child,11.6
+543,Kentucky,100,child,9.2
+546,Kentucky,200,child,7.8
+549,Kentucky,300,child,5.7
+552,Kentucky,400,child,4.0
+555,Kentucky,500,child,2.9
+630,Louisiana,0,child,20.0
+633,Louisiana,100,child,15.8
+636,Louisiana,200,child,11.0
+639,Louisiana,300,child,8.6
+642,Louisiana,400,child,6.6
+645,Louisiana,500,child,4.9
+0,Maine,0,child,11.0
+3,Maine,100,child,7.2
+6,Maine,200,child,6.2
+9,Maine,300,child,5.5
+12,Maine,400,child,4.3
+15,Maine,500,child,3.5
+396,Maryland,0,child,12.4
+399,Maryland,100,child,9.4
+402,Maryland,200,child,7.7
+405,Maryland,300,child,6.2
+408,Maryland,400,child,4.4
+411,Maryland,500,child,3.1
+54,Massachusetts,0,child,11.7
+57,Massachusetts,100,child,9.0
+60,Massachusetts,200,child,6.6
+63,Massachusetts,300,child,5.4
+66,Massachusetts,400,child,4.4
+69,Massachusetts,500,child,3.4
+216,Michigan,0,child,10.9
+219,Michigan,100,child,8.8
+222,Michigan,200,child,6.5
+225,Michigan,300,child,5.2
+228,Michigan,400,child,4.5
+231,Michigan,500,child,3.7
+252,Minnesota,0,child,6.3
+255,Minnesota,100,child,4.3
+258,Minnesota,200,child,3.1
+261,Minnesota,300,child,1.6
+264,Minnesota,400,child,1.3
+267,Minnesota,500,child,0.9
+594,Mississippi,0,child,16.8
+597,Mississippi,100,child,12.6
+600,Mississippi,200,child,8.9
+603,Mississippi,300,child,7.3
+606,Mississippi,400,child,5.3
+609,Mississippi,500,child,3.9
+288,Missouri,0,child,11.3
+291,Missouri,100,child,9.1
+294,Missouri,200,child,7.1
+297,Missouri,300,child,4.8
+300,Missouri,400,child,4.4
+303,Missouri,500,child,3.6
+684,Montana,0,child,9.6
+687,Montana,100,child,7.9
+690,Montana,200,child,6.2
+693,Montana,300,child,4.7
+696,Montana,400,child,3.9
+699,Montana,500,child,3.1
+342,Nebraska,0,child,10.1
+345,Nebraska,100,child,7.3
+348,Nebraska,200,child,5.0
+351,Nebraska,300,child,3.8
+354,Nebraska,400,child,3.0
+357,Nebraska,500,child,2.3
+810,Nevada,0,child,13.4
+813,Nevada,100,child,10.1
+816,Nevada,200,child,8.1
+819,Nevada,300,child,6.4
+822,Nevada,400,child,5.1
+825,Nevada,500,child,3.8
+18,New Hampshire,0,child,8.7
+21,New Hampshire,100,child,6.7
+24,New Hampshire,200,child,5.3
+27,New Hampshire,300,child,4.2
+30,New Hampshire,400,child,4.1
+33,New Hampshire,500,child,3.2
+126,New Jersey,0,child,15.1
+129,New Jersey,100,child,13.0
+132,New Jersey,200,child,9.7
+135,New Jersey,300,child,8.2
+138,New Jersey,400,child,6.7
+141,New Jersey,500,child,4.9
+756,New Mexico,0,child,13.8
+759,New Mexico,100,child,10.4
+762,New Mexico,200,child,8.0
+765,New Mexico,300,child,5.4
+768,New Mexico,400,child,4.2
+771,New Mexico,500,child,3.0
+108,New York,0,child,16.3
+111,New York,100,child,13.3
+114,New York,200,child,10.1
+117,New York,300,child,8.4
+120,New York,400,child,7.3
+123,New York,500,child,6.0
+468,North Carolina,0,child,15.3
+471,North Carolina,100,child,11.0
+474,North Carolina,200,child,8.1
+477,North Carolina,300,child,5.9
+480,North Carolina,400,child,4.3
+483,North Carolina,500,child,3.4
+306,North Dakota,0,child,11.3
+309,North Dakota,100,child,8.1
+312,North Dakota,200,child,6.1
+315,North Dakota,300,child,5.5
+318,North Dakota,400,child,4.4
+321,North Dakota,500,child,3.2
+162,Ohio,0,child,11.9
+165,Ohio,100,child,8.5
+168,Ohio,200,child,6.6
+171,Ohio,300,child,4.8
+174,Ohio,400,child,3.4
+177,Ohio,500,child,2.4
+648,Oklahoma,0,child,11.5
+651,Oklahoma,100,child,9.3
+654,Oklahoma,200,child,6.4
+657,Oklahoma,300,child,5.0
+660,Oklahoma,400,child,4.0
+663,Oklahoma,500,child,2.7
+846,Oregon,0,child,12.7
+849,Oregon,100,child,9.3
+852,Oregon,200,child,7.3
+855,Oregon,300,child,5.7
+858,Oregon,400,child,4.5
+861,Oregon,500,child,3.6
+144,Pennsylvania,0,child,14.0
+147,Pennsylvania,100,child,11.0
+150,Pennsylvania,200,child,8.2
+153,Pennsylvania,300,child,7.2
+156,Pennsylvania,400,child,5.6
+159,Pennsylvania,500,child,4.1
+72,Rhode Island,0,child,9.5
+75,Rhode Island,100,child,7.9
+78,Rhode Island,200,child,6.3
+81,Rhode Island,300,child,5.1
+84,Rhode Island,400,child,4.0
+87,Rhode Island,500,child,2.6
+486,South Carolina,0,child,15.2
+489,South Carolina,100,child,11.2
+492,South Carolina,200,child,8.7
+495,South Carolina,300,child,7.5
+498,South Carolina,400,child,5.8
+501,South Carolina,500,child,5.0
+324,South Dakota,0,child,10.3
+327,South Dakota,100,child,6.6
+330,South Dakota,200,child,5.2
+333,South Dakota,300,child,3.5
+336,South Dakota,400,child,2.6
+339,South Dakota,500,child,1.6
+558,Tennessee,0,child,13.3
+561,Tennessee,100,child,10.5
+564,Tennessee,200,child,8.4
+567,Tennessee,300,child,6.2
+570,Tennessee,400,child,4.7
+573,Tennessee,500,child,3.6
+666,Texas,0,child,16.2
+669,Texas,100,child,12.2
+672,Texas,200,child,9.5
+675,Texas,300,child,7.2
+678,Texas,400,child,5.7
+681,Texas,500,child,4.4
+792,Utah,0,child,8.2
+795,Utah,100,child,6.2
+798,Utah,200,child,5.3
+801,Utah,300,child,3.6
+804,Utah,400,child,3.1
+807,Utah,500,child,2.8
+36,Vermont,0,child,10.4
+39,Vermont,100,child,8.2
+42,Vermont,200,child,7.0
+45,Vermont,300,child,6.4
+48,Vermont,400,child,4.8
+51,Vermont,500,child,4.1
+432,Virginia,0,child,14.9
+435,Virginia,100,child,11.9
+438,Virginia,200,child,9.7
+441,Virginia,300,child,7.7
+444,Virginia,400,child,5.8
+447,Virginia,500,child,4.9
+828,Washington,0,child,10.9
+831,Washington,100,child,8.1
+834,Washington,200,child,6.7
+837,Washington,300,child,5.5
+840,Washington,400,child,4.1
+843,Washington,500,child,3.6
+450,West Virginia,0,child,16.0
+453,West Virginia,100,child,12.3
+456,West Virginia,200,child,9.6
+459,West Virginia,300,child,6.8
+462,West Virginia,400,child,4.5
+465,West Virginia,500,child,3.7
+234,Wisconsin,0,child,8.1
+237,Wisconsin,100,child,5.6
+240,Wisconsin,200,child,4.5
+243,Wisconsin,300,child,4.1
+246,Wisconsin,400,child,2.9
+249,Wisconsin,500,child,2.2
+720,Wyoming,0,child,10.1
+723,Wyoming,100,child,7.9
+726,Wyoming,200,child,6.1
+729,Wyoming,300,child,4.9
+732,Wyoming,400,child,4.2
+735,Wyoming,500,child,2.8
