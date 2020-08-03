@@ -1,0 +1,307 @@
+,code,state,ca_monthly,poverty_rate
+0,AL,Alabama,0,17.0
+1,AL,Alabama,100,13.8
+2,AL,Alabama,200,10.3
+3,AL,Alabama,300,8.0
+4,AL,Alabama,400,5.7
+5,AL,Alabama,500,5.0
+6,AK,Alaska,0,15.2
+7,AK,Alaska,100,12.2
+8,AK,Alaska,200,10.6
+9,AK,Alaska,300,8.9
+10,AK,Alaska,400,7.9
+11,AK,Alaska,500,7.1
+12,AZ,Arizona,0,14.8
+13,AZ,Arizona,100,11.3
+14,AZ,Arizona,200,7.9
+15,AZ,Arizona,300,6.3
+16,AZ,Arizona,400,4.9
+17,AZ,Arizona,500,3.6
+18,AR,Arkansas,0,13.9
+19,AR,Arkansas,100,10.0
+20,AR,Arkansas,200,7.3
+21,AR,Arkansas,300,5.8
+22,AR,Arkansas,400,5.0
+23,AR,Arkansas,500,3.3
+24,CA,California,0,20.8
+25,CA,California,100,17.2
+26,CA,California,200,13.5
+27,CA,California,300,10.5
+28,CA,California,400,8.7
+29,CA,California,500,7.1
+30,CO,Colorado,0,10.5
+31,CO,Colorado,100,8.7
+32,CO,Colorado,200,5.9
+33,CO,Colorado,300,4.6
+34,CO,Colorado,400,3.8
+35,CO,Colorado,500,2.6
+36,CT,Connecticut,0,16.1
+37,CT,Connecticut,100,14.9
+38,CT,Connecticut,200,11.8
+39,CT,Connecticut,300,8.9
+40,CT,Connecticut,400,8.3
+41,CT,Connecticut,500,6.6
+42,DE,Delaware,0,10.9
+43,DE,Delaware,100,9.0
+44,DE,Delaware,200,7.9
+45,DE,Delaware,300,5.7
+46,DE,Delaware,400,4.7
+47,DE,Delaware,500,4.1
+48,FL,Florida,0,19.6
+49,FL,Florida,100,15.3
+50,FL,Florida,200,12.0
+51,FL,Florida,300,9.8
+52,FL,Florida,400,8.3
+53,FL,Florida,500,6.4
+54,GA,Georgia,0,17.0
+55,GA,Georgia,100,14.4
+56,GA,Georgia,200,10.8
+57,GA,Georgia,300,8.3
+58,GA,Georgia,400,7.0
+59,GA,Georgia,500,4.7
+60,HI,Hawaii,0,16.1
+61,HI,Hawaii,100,13.5
+62,HI,Hawaii,200,9.7
+63,HI,Hawaii,300,7.0
+64,HI,Hawaii,400,6.6
+65,HI,Hawaii,500,4.4
+66,ID,Idaho,0,7.6
+67,ID,Idaho,100,5.0
+68,ID,Idaho,200,3.6
+69,ID,Idaho,300,2.6
+70,ID,Idaho,400,2.1
+71,ID,Idaho,500,1.8
+72,IL,Illinois,0,14.1
+73,IL,Illinois,100,10.7
+74,IL,Illinois,200,8.3
+75,IL,Illinois,300,5.8
+76,IL,Illinois,400,4.5
+77,IL,Illinois,500,3.1
+78,IN,Indiana,0,12.4
+79,IN,Indiana,100,9.3
+80,IN,Indiana,200,7.4
+81,IN,Indiana,300,5.0
+82,IN,Indiana,400,3.7
+83,IN,Indiana,500,2.8
+84,IA,Iowa,0,7.4
+85,IA,Iowa,100,6.0
+86,IA,Iowa,200,4.3
+87,IA,Iowa,300,3.1
+88,IA,Iowa,400,2.6
+89,IA,Iowa,500,2.0
+90,KS,Kansas,0,7.8
+91,KS,Kansas,100,5.8
+92,KS,Kansas,200,4.9
+93,KS,Kansas,300,4.0
+94,KS,Kansas,400,2.6
+95,KS,Kansas,500,2.0
+96,KY,Kentucky,0,11.6
+97,KY,Kentucky,100,9.2
+98,KY,Kentucky,200,7.8
+99,KY,Kentucky,300,5.7
+100,KY,Kentucky,400,4.0
+101,KY,Kentucky,500,2.9
+102,LA,Louisiana,0,20.0
+103,LA,Louisiana,100,15.8
+104,LA,Louisiana,200,11.0
+105,LA,Louisiana,300,8.6
+106,LA,Louisiana,400,6.6
+107,LA,Louisiana,500,4.9
+108,ME,Maine,0,11.0
+109,ME,Maine,100,7.2
+110,ME,Maine,200,6.2
+111,ME,Maine,300,5.5
+112,ME,Maine,400,4.3
+113,ME,Maine,500,3.5
+114,MD,Maryland,0,12.4
+115,MD,Maryland,100,9.4
+116,MD,Maryland,200,7.7
+117,MD,Maryland,300,6.2
+118,MD,Maryland,400,4.4
+119,MD,Maryland,500,3.1
+120,MA,Massachusetts,0,11.7
+121,MA,Massachusetts,100,9.0
+122,MA,Massachusetts,200,6.6
+123,MA,Massachusetts,300,5.4
+124,MA,Massachusetts,400,4.4
+125,MA,Massachusetts,500,3.4
+126,MI,Michigan,0,10.9
+127,MI,Michigan,100,8.8
+128,MI,Michigan,200,6.5
+129,MI,Michigan,300,5.2
+130,MI,Michigan,400,4.5
+131,MI,Michigan,500,3.7
+132,MN,Minnesota,0,6.3
+133,MN,Minnesota,100,4.3
+134,MN,Minnesota,200,3.1
+135,MN,Minnesota,300,1.6
+136,MN,Minnesota,400,1.3
+137,MN,Minnesota,500,0.9
+138,MS,Mississippi,0,16.8
+139,MS,Mississippi,100,12.6
+140,MS,Mississippi,200,8.9
+141,MS,Mississippi,300,7.3
+142,MS,Mississippi,400,5.3
+143,MS,Mississippi,500,3.9
+144,MO,Missouri,0,11.3
+145,MO,Missouri,100,9.1
+146,MO,Missouri,200,7.1
+147,MO,Missouri,300,4.8
+148,MO,Missouri,400,4.4
+149,MO,Missouri,500,3.6
+150,MT,Montana,0,9.6
+151,MT,Montana,100,7.9
+152,MT,Montana,200,6.2
+153,MT,Montana,300,4.7
+154,MT,Montana,400,3.9
+155,MT,Montana,500,3.1
+156,NE,Nebraska,0,10.1
+157,NE,Nebraska,100,7.3
+158,NE,Nebraska,200,5.0
+159,NE,Nebraska,300,3.8
+160,NE,Nebraska,400,3.0
+161,NE,Nebraska,500,2.3
+162,NV,Nevada,0,13.4
+163,NV,Nevada,100,10.1
+164,NV,Nevada,200,8.1
+165,NV,Nevada,300,6.4
+166,NV,Nevada,400,5.1
+167,NV,Nevada,500,3.8
+168,NH,New Hampshire,0,8.7
+169,NH,New Hampshire,100,6.7
+170,NH,New Hampshire,200,5.3
+171,NH,New Hampshire,300,4.2
+172,NH,New Hampshire,400,4.1
+173,NH,New Hampshire,500,3.2
+174,NJ,New Jersey,0,15.1
+175,NJ,New Jersey,100,13.0
+176,NJ,New Jersey,200,9.7
+177,NJ,New Jersey,300,8.2
+178,NJ,New Jersey,400,6.7
+179,NJ,New Jersey,500,4.9
+180,NM,New Mexico,0,13.8
+181,NM,New Mexico,100,10.4
+182,NM,New Mexico,200,8.0
+183,NM,New Mexico,300,5.4
+184,NM,New Mexico,400,4.2
+185,NM,New Mexico,500,3.0
+186,NY,New York,0,16.3
+187,NY,New York,100,13.3
+188,NY,New York,200,10.1
+189,NY,New York,300,8.4
+190,NY,New York,400,7.3
+191,NY,New York,500,6.0
+192,NC,North Carolina,0,15.3
+193,NC,North Carolina,100,11.0
+194,NC,North Carolina,200,8.1
+195,NC,North Carolina,300,5.9
+196,NC,North Carolina,400,4.3
+197,NC,North Carolina,500,3.4
+198,ND,North Dakota,0,11.3
+199,ND,North Dakota,100,8.1
+200,ND,North Dakota,200,6.1
+201,ND,North Dakota,300,5.5
+202,ND,North Dakota,400,4.4
+203,ND,North Dakota,500,3.2
+204,OH,Ohio,0,11.9
+205,OH,Ohio,100,8.5
+206,OH,Ohio,200,6.6
+207,OH,Ohio,300,4.8
+208,OH,Ohio,400,3.4
+209,OH,Ohio,500,2.4
+210,OK,Oklahoma,0,11.5
+211,OK,Oklahoma,100,9.3
+212,OK,Oklahoma,200,6.4
+213,OK,Oklahoma,300,5.0
+214,OK,Oklahoma,400,4.0
+215,OK,Oklahoma,500,2.7
+216,OR,Oregon,0,12.7
+217,OR,Oregon,100,9.3
+218,OR,Oregon,200,7.3
+219,OR,Oregon,300,5.7
+220,OR,Oregon,400,4.5
+221,OR,Oregon,500,3.6
+222,PA,Pennsylvania,0,14.0
+223,PA,Pennsylvania,100,11.0
+224,PA,Pennsylvania,200,8.2
+225,PA,Pennsylvania,300,7.2
+226,PA,Pennsylvania,400,5.6
+227,PA,Pennsylvania,500,4.1
+228,RI,Rhode Island,0,9.5
+229,RI,Rhode Island,100,7.9
+230,RI,Rhode Island,200,6.3
+231,RI,Rhode Island,300,5.1
+232,RI,Rhode Island,400,4.0
+233,RI,Rhode Island,500,2.6
+234,SC,South Carolina,0,15.2
+235,SC,South Carolina,100,11.2
+236,SC,South Carolina,200,8.7
+237,SC,South Carolina,300,7.5
+238,SC,South Carolina,400,5.8
+239,SC,South Carolina,500,5.0
+240,SD,South Dakota,0,10.3
+241,SD,South Dakota,100,6.6
+242,SD,South Dakota,200,5.2
+243,SD,South Dakota,300,3.5
+244,SD,South Dakota,400,2.6
+245,SD,South Dakota,500,1.6
+246,TN,Tennessee,0,13.3
+247,TN,Tennessee,100,10.5
+248,TN,Tennessee,200,8.4
+249,TN,Tennessee,300,6.2
+250,TN,Tennessee,400,4.7
+251,TN,Tennessee,500,3.6
+252,TX,Texas,0,16.2
+253,TX,Texas,100,12.2
+254,TX,Texas,200,9.5
+255,TX,Texas,300,7.2
+256,TX,Texas,400,5.7
+257,TX,Texas,500,4.4
+258,UT,Utah,0,8.2
+259,UT,Utah,100,6.2
+260,UT,Utah,200,5.3
+261,UT,Utah,300,3.6
+262,UT,Utah,400,3.1
+263,UT,Utah,500,2.8
+264,VT,Vermont,0,10.4
+265,VT,Vermont,100,8.2
+266,VT,Vermont,200,7.0
+267,VT,Vermont,300,6.4
+268,VT,Vermont,400,4.8
+269,VT,Vermont,500,4.1
+270,VA,Virginia,0,14.9
+271,VA,Virginia,100,11.9
+272,VA,Virginia,200,9.7
+273,VA,Virginia,300,7.7
+274,VA,Virginia,400,5.8
+275,VA,Virginia,500,4.9
+276,WA,Washington,0,10.9
+277,WA,Washington,100,8.1
+278,WA,Washington,200,6.7
+279,WA,Washington,300,5.5
+280,WA,Washington,400,4.1
+281,WA,Washington,500,3.6
+282,WV,West Virginia,0,16.0
+283,WV,West Virginia,100,12.3
+284,WV,West Virginia,200,9.6
+285,WV,West Virginia,300,6.8
+286,WV,West Virginia,400,4.5
+287,WV,West Virginia,500,3.7
+288,WI,Wisconsin,0,8.1
+289,WI,Wisconsin,100,5.6
+290,WI,Wisconsin,200,4.5
+291,WI,Wisconsin,300,4.1
+292,WI,Wisconsin,400,2.9
+293,WI,Wisconsin,500,2.2
+294,WY,Wyoming,0,10.1
+295,WY,Wyoming,100,7.9
+296,WY,Wyoming,200,6.1
+297,WY,Wyoming,300,4.9
+298,WY,Wyoming,400,4.2
+299,WY,Wyoming,500,2.8
+300,DC,District of Columbia,0,22.1
+301,DC,District of Columbia,100,18.7
+302,DC,District of Columbia,200,13.9
+303,DC,District of Columbia,300,10.5
+304,DC,District of Columbia,400,9.0
+305,DC,District of Columbia,500,6.8
