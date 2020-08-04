@@ -1,0 +1,1072 @@
+,state,ca_monthly,age_group,poverty_rate
+2016,Alabama,0,child,17.0
+2019,Alabama,25,child,16.6
+2022,Alabama,50,child,15.6
+2025,Alabama,75,child,14.6
+2028,Alabama,100,child,13.8
+2031,Alabama,125,child,13.1
+2034,Alabama,150,child,11.6
+2037,Alabama,175,child,10.5
+2040,Alabama,200,child,10.3
+2043,Alabama,225,child,9.6
+2046,Alabama,250,child,9.0
+2049,Alabama,275,child,8.6
+2052,Alabama,300,child,8.0
+2055,Alabama,325,child,7.4
+2058,Alabama,350,child,6.7
+2061,Alabama,375,child,6.4
+2064,Alabama,400,child,5.7
+2067,Alabama,425,child,5.5
+2070,Alabama,450,child,5.4
+2073,Alabama,475,child,5.1
+2076,Alabama,500,child,5.0
+3087,Alaska,0,child,15.2
+3090,Alaska,25,child,13.8
+3093,Alaska,50,child,12.9
+3096,Alaska,75,child,12.4
+3099,Alaska,100,child,12.2
+3102,Alaska,125,child,11.8
+3105,Alaska,150,child,11.2
+3108,Alaska,175,child,10.9
+3111,Alaska,200,child,10.6
+3114,Alaska,225,child,10.5
+3117,Alaska,250,child,10.0
+3120,Alaska,275,child,9.4
+3123,Alaska,300,child,8.9
+3126,Alaska,325,child,8.7
+3129,Alaska,350,child,8.3
+3132,Alaska,375,child,8.1
+3135,Alaska,400,child,7.9
+3138,Alaska,425,child,7.7
+3141,Alaska,450,child,7.4
+3144,Alaska,475,child,7.3
+3147,Alaska,500,child,7.1
+2709,Arizona,0,child,14.8
+2712,Arizona,25,child,13.7
+2715,Arizona,50,child,12.8
+2718,Arizona,75,child,11.9
+2721,Arizona,100,child,11.3
+2724,Arizona,125,child,10.5
+2727,Arizona,150,child,9.7
+2730,Arizona,175,child,8.6
+2733,Arizona,200,child,7.9
+2736,Arizona,225,child,7.7
+2739,Arizona,250,child,7.4
+2742,Arizona,275,child,7.0
+2745,Arizona,300,child,6.3
+2748,Arizona,325,child,6.0
+2751,Arizona,350,child,5.6
+2754,Arizona,375,child,5.2
+2757,Arizona,400,child,4.9
+2760,Arizona,425,child,4.7
+2763,Arizona,450,child,3.9
+2766,Arizona,475,child,3.7
+2769,Arizona,500,child,3.6
+2142,Arkansas,0,child,13.9
+2145,Arkansas,25,child,12.3
+2148,Arkansas,50,child,11.3
+2151,Arkansas,75,child,10.4
+2154,Arkansas,100,child,10.0
+2157,Arkansas,125,child,9.5
+2160,Arkansas,150,child,8.3
+2163,Arkansas,175,child,7.8
+2166,Arkansas,200,child,7.3
+2169,Arkansas,225,child,7.1
+2172,Arkansas,250,child,6.6
+2175,Arkansas,275,child,6.5
+2178,Arkansas,300,child,5.8
+2181,Arkansas,325,child,5.7
+2184,Arkansas,350,child,5.5
+2187,Arkansas,375,child,5.5
+2190,Arkansas,400,child,5.0
+2193,Arkansas,425,child,4.8
+2196,Arkansas,450,child,4.3
+2199,Arkansas,475,child,4.2
+2202,Arkansas,500,child,3.3
+3024,California,0,child,20.8
+3027,California,25,child,20.0
+3030,California,50,child,18.9
+3033,California,75,child,18.1
+3036,California,100,child,17.2
+3039,California,125,child,16.4
+3042,California,150,child,15.4
+3045,California,175,child,14.5
+3048,California,200,child,13.5
+3051,California,225,child,12.8
+3054,California,250,child,11.9
+3057,California,275,child,11.2
+3060,California,300,child,10.5
+3063,California,325,child,10.3
+3066,California,350,child,9.8
+3069,California,375,child,9.3
+3072,California,400,child,8.7
+3075,California,425,child,8.2
+3078,California,450,child,7.8
+3081,California,475,child,7.6
+3084,California,500,child,7.1
+2583,Colorado,0,child,10.5
+2586,Colorado,25,child,10.1
+2589,Colorado,50,child,9.6
+2592,Colorado,75,child,9.3
+2595,Colorado,100,child,8.7
+2598,Colorado,125,child,7.7
+2601,Colorado,150,child,6.3
+2604,Colorado,175,child,6.2
+2607,Colorado,200,child,5.9
+2610,Colorado,225,child,5.8
+2613,Colorado,250,child,5.3
+2616,Colorado,275,child,5.1
+2619,Colorado,300,child,4.6
+2622,Colorado,325,child,4.2
+2625,Colorado,350,child,4.0
+2628,Colorado,375,child,3.9
+2631,Colorado,400,child,3.8
+2634,Colorado,425,child,3.2
+2637,Colorado,450,child,3.0
+2640,Colorado,475,child,2.7
+2643,Colorado,500,child,2.6
+315,Connecticut,0,child,16.1
+318,Connecticut,25,child,16.0
+321,Connecticut,50,child,15.6
+324,Connecticut,75,child,15.3
+327,Connecticut,100,child,14.9
+330,Connecticut,125,child,13.7
+333,Connecticut,150,child,13.1
+336,Connecticut,175,child,12.7
+339,Connecticut,200,child,11.8
+342,Connecticut,225,child,11.6
+345,Connecticut,250,child,10.9
+348,Connecticut,275,child,10.0
+351,Connecticut,300,child,8.9
+354,Connecticut,325,child,8.9
+357,Connecticut,350,child,8.6
+360,Connecticut,375,child,8.6
+363,Connecticut,400,child,8.3
+366,Connecticut,425,child,8.0
+369,Connecticut,450,child,7.3
+372,Connecticut,475,child,6.7
+375,Connecticut,500,child,6.6
+1323,Delaware,0,child,10.9
+1326,Delaware,25,child,10.3
+1329,Delaware,50,child,9.7
+1332,Delaware,75,child,9.2
+1335,Delaware,100,child,9.0
+1338,Delaware,125,child,8.8
+1341,Delaware,150,child,8.4
+1344,Delaware,175,child,8.1
+1347,Delaware,200,child,7.9
+1350,Delaware,225,child,7.5
+1353,Delaware,250,child,7.1
+1356,Delaware,275,child,6.1
+1359,Delaware,300,child,5.7
+1362,Delaware,325,child,5.6
+1365,Delaware,350,child,5.4
+1368,Delaware,375,child,5.2
+1371,Delaware,400,child,4.7
+1374,Delaware,425,child,4.4
+1377,Delaware,450,child,4.3
+1380,Delaware,475,child,4.1
+1383,Delaware,500,child,4.1
+1449,District of Columbia,0,child,22.1
+1452,District of Columbia,25,child,21.3
+1455,District of Columbia,50,child,20.5
+1458,District of Columbia,75,child,19.5
+1461,District of Columbia,100,child,18.7
+1464,District of Columbia,125,child,17.4
+1467,District of Columbia,150,child,15.7
+1470,District of Columbia,175,child,15.1
+1473,District of Columbia,200,child,13.9
+1476,District of Columbia,225,child,12.6
+1479,District of Columbia,250,child,11.7
+1482,District of Columbia,275,child,11.0
+1485,District of Columbia,300,child,10.5
+1488,District of Columbia,325,child,10.0
+1491,District of Columbia,350,child,9.7
+1494,District of Columbia,375,child,9.3
+1497,District of Columbia,400,child,9.0
+1500,District of Columbia,425,child,8.6
+1503,District of Columbia,450,child,8.1
+1506,District of Columbia,475,child,7.4
+1509,District of Columbia,500,child,6.8
+1827,Florida,0,child,19.6
+1830,Florida,25,child,18.9
+1833,Florida,50,child,17.9
+1836,Florida,75,child,16.9
+1839,Florida,100,child,15.3
+1842,Florida,125,child,14.5
+1845,Florida,150,child,13.7
+1848,Florida,175,child,12.9
+1851,Florida,200,child,12.0
+1854,Florida,225,child,11.1
+1857,Florida,250,child,10.8
+1860,Florida,275,child,10.4
+1863,Florida,300,child,9.8
+1866,Florida,325,child,9.6
+1869,Florida,350,child,9.2
+1872,Florida,375,child,8.6
+1875,Florida,400,child,8.3
+1878,Florida,425,child,7.8
+1881,Florida,450,child,7.5
+1884,Florida,475,child,7.0
+1887,Florida,500,child,6.4
+1764,Georgia,0,child,17.0
+1767,Georgia,25,child,16.7
+1770,Georgia,50,child,16.1
+1773,Georgia,75,child,15.4
+1776,Georgia,100,child,14.4
+1779,Georgia,125,child,12.7
+1782,Georgia,150,child,11.6
+1785,Georgia,175,child,11.3
+1788,Georgia,200,child,10.8
+1791,Georgia,225,child,9.7
+1794,Georgia,250,child,9.0
+1797,Georgia,275,child,8.7
+1800,Georgia,300,child,8.3
+1803,Georgia,325,child,7.8
+1806,Georgia,350,child,7.5
+1809,Georgia,375,child,7.1
+1812,Georgia,400,child,7.0
+1815,Georgia,425,child,6.7
+1818,Georgia,450,child,5.8
+1821,Georgia,475,child,5.0
+1824,Georgia,500,child,4.7
+3150,Hawaii,0,child,16.1
+3153,Hawaii,25,child,15.2
+3156,Hawaii,50,child,14.5
+3159,Hawaii,75,child,14.2
+3162,Hawaii,100,child,13.5
+3165,Hawaii,125,child,12.7
+3168,Hawaii,150,child,12.1
+3171,Hawaii,175,child,11.0
+3174,Hawaii,200,child,9.7
+3177,Hawaii,225,child,9.0
+3180,Hawaii,250,child,8.5
+3183,Hawaii,275,child,7.9
+3186,Hawaii,300,child,7.0
+3189,Hawaii,325,child,6.8
+3192,Hawaii,350,child,6.8
+3195,Hawaii,375,child,6.8
+3198,Hawaii,400,child,6.6
+3201,Hawaii,425,child,6.6
+3204,Hawaii,450,child,6.0
+3207,Hawaii,475,child,4.9
+3210,Hawaii,500,child,4.4
+2457,Idaho,0,child,7.6
+2460,Idaho,25,child,6.6
+2463,Idaho,50,child,6.4
+2466,Idaho,75,child,5.7
+2469,Idaho,100,child,5.0
+2472,Idaho,125,child,4.5
+2475,Idaho,150,child,4.4
+2478,Idaho,175,child,4.1
+2481,Idaho,200,child,3.6
+2484,Idaho,225,child,3.2
+2487,Idaho,250,child,2.8
+2490,Idaho,275,child,2.6
+2493,Idaho,300,child,2.6
+2496,Idaho,325,child,2.5
+2499,Idaho,350,child,2.4
+2502,Idaho,375,child,2.2
+2505,Idaho,400,child,2.1
+2508,Idaho,425,child,2.0
+2511,Idaho,450,child,2.0
+2514,Idaho,475,child,2.0
+2517,Idaho,500,child,1.8
+693,Illinois,0,child,14.1
+696,Illinois,25,child,13.5
+699,Illinois,50,child,12.7
+702,Illinois,75,child,11.6
+705,Illinois,100,child,10.7
+708,Illinois,125,child,10.4
+711,Illinois,150,child,9.6
+714,Illinois,175,child,9.1
+717,Illinois,200,child,8.3
+720,Illinois,225,child,7.5
+723,Illinois,250,child,6.7
+726,Illinois,275,child,6.1
+729,Illinois,300,child,5.8
+732,Illinois,325,child,5.6
+735,Illinois,350,child,5.2
+738,Illinois,375,child,4.8
+741,Illinois,400,child,4.5
+744,Illinois,425,child,3.8
+747,Illinois,450,child,3.6
+750,Illinois,475,child,3.2
+753,Illinois,500,child,3.1
+630,Indiana,0,child,12.4
+633,Indiana,25,child,11.9
+636,Indiana,50,child,11.6
+639,Indiana,75,child,10.0
+642,Indiana,100,child,9.3
+645,Indiana,125,child,8.8
+648,Indiana,150,child,8.8
+651,Indiana,175,child,8.2
+654,Indiana,200,child,7.4
+657,Indiana,225,child,6.3
+660,Indiana,250,child,5.5
+663,Indiana,275,child,5.3
+666,Indiana,300,child,5.0
+669,Indiana,325,child,4.8
+672,Indiana,350,child,4.5
+675,Indiana,375,child,4.0
+678,Indiana,400,child,3.7
+681,Indiana,425,child,3.5
+684,Indiana,450,child,3.3
+687,Indiana,475,child,3.0
+690,Indiana,500,child,2.8
+945,Iowa,0,child,7.4
+948,Iowa,25,child,7.0
+951,Iowa,50,child,6.6
+954,Iowa,75,child,6.3
+957,Iowa,100,child,6.0
+960,Iowa,125,child,5.5
+963,Iowa,150,child,5.4
+966,Iowa,175,child,5.1
+969,Iowa,200,child,4.3
+972,Iowa,225,child,4.3
+975,Iowa,250,child,4.0
+978,Iowa,275,child,3.5
+981,Iowa,300,child,3.1
+984,Iowa,325,child,3.0
+987,Iowa,350,child,2.6
+990,Iowa,375,child,2.6
+993,Iowa,400,child,2.6
+996,Iowa,425,child,2.1
+999,Iowa,450,child,2.0
+1002,Iowa,475,child,2.0
+1005,Iowa,500,child,2.0
+1260,Kansas,0,child,7.8
+1263,Kansas,25,child,7.4
+1266,Kansas,50,child,6.4
+1269,Kansas,75,child,6.0
+1272,Kansas,100,child,5.8
+1275,Kansas,125,child,5.3
+1278,Kansas,150,child,5.1
+1281,Kansas,175,child,5.1
+1284,Kansas,200,child,4.9
+1287,Kansas,225,child,4.5
+1290,Kansas,250,child,4.3
+1293,Kansas,275,child,4.0
+1296,Kansas,300,child,4.0
+1299,Kansas,325,child,3.9
+1302,Kansas,350,child,3.3
+1305,Kansas,375,child,2.6
+1308,Kansas,400,child,2.6
+1311,Kansas,425,child,2.6
+1314,Kansas,450,child,2.3
+1317,Kansas,475,child,2.2
+1320,Kansas,500,child,2.0
+1890,Kentucky,0,child,11.6
+1893,Kentucky,25,child,11.2
+1896,Kentucky,50,child,10.5
+1899,Kentucky,75,child,9.7
+1902,Kentucky,100,child,9.2
+1905,Kentucky,125,child,8.8
+1908,Kentucky,150,child,8.5
+1911,Kentucky,175,child,8.3
+1914,Kentucky,200,child,7.8
+1917,Kentucky,225,child,6.9
+1920,Kentucky,250,child,6.9
+1923,Kentucky,275,child,6.3
+1926,Kentucky,300,child,5.7
+1929,Kentucky,325,child,5.2
+1932,Kentucky,350,child,4.8
+1935,Kentucky,375,child,4.5
+1938,Kentucky,400,child,4.0
+1941,Kentucky,425,child,3.7
+1944,Kentucky,450,child,3.1
+1947,Kentucky,475,child,3.1
+1950,Kentucky,500,child,2.9
+2205,Louisiana,0,child,20.0
+2208,Louisiana,25,child,19.1
+2211,Louisiana,50,child,17.8
+2214,Louisiana,75,child,16.4
+2217,Louisiana,100,child,15.8
+2220,Louisiana,125,child,14.1
+2223,Louisiana,150,child,12.8
+2226,Louisiana,175,child,11.8
+2229,Louisiana,200,child,11.0
+2232,Louisiana,225,child,10.4
+2235,Louisiana,250,child,9.9
+2238,Louisiana,275,child,9.3
+2241,Louisiana,300,child,8.6
+2244,Louisiana,325,child,8.2
+2247,Louisiana,350,child,7.8
+2250,Louisiana,375,child,7.0
+2253,Louisiana,400,child,6.6
+2256,Louisiana,425,child,6.0
+2259,Louisiana,450,child,5.5
+2262,Louisiana,475,child,5.2
+2265,Louisiana,500,child,4.9
+0,Maine,0,child,11.0
+3,Maine,25,child,9.4
+6,Maine,50,child,8.7
+9,Maine,75,child,8.3
+12,Maine,100,child,7.2
+15,Maine,125,child,6.5
+18,Maine,150,child,6.4
+21,Maine,175,child,6.4
+24,Maine,200,child,6.2
+27,Maine,225,child,6.0
+30,Maine,250,child,5.8
+33,Maine,275,child,5.7
+36,Maine,300,child,5.5
+39,Maine,325,child,5.4
+42,Maine,350,child,5.2
+45,Maine,375,child,4.7
+48,Maine,400,child,4.3
+51,Maine,425,child,4.0
+54,Maine,450,child,3.9
+57,Maine,475,child,3.8
+60,Maine,500,child,3.5
+1386,Maryland,0,child,12.4
+1389,Maryland,25,child,11.7
+1392,Maryland,50,child,10.9
+1395,Maryland,75,child,10.2
+1398,Maryland,100,child,9.4
+1401,Maryland,125,child,8.6
+1404,Maryland,150,child,8.2
+1407,Maryland,175,child,8.1
+1410,Maryland,200,child,7.7
+1413,Maryland,225,child,7.5
+1416,Maryland,250,child,7.4
+1419,Maryland,275,child,6.7
+1422,Maryland,300,child,6.2
+1425,Maryland,325,child,5.7
+1428,Maryland,350,child,5.1
+1431,Maryland,375,child,4.5
+1434,Maryland,400,child,4.4
+1437,Maryland,425,child,3.6
+1440,Maryland,450,child,3.5
+1443,Maryland,475,child,3.2
+1446,Maryland,500,child,3.1
+189,Massachusetts,0,child,11.7
+192,Massachusetts,25,child,10.2
+195,Massachusetts,50,child,9.9
+198,Massachusetts,75,child,9.5
+201,Massachusetts,100,child,9.0
+204,Massachusetts,125,child,8.2
+207,Massachusetts,150,child,7.9
+210,Massachusetts,175,child,7.0
+213,Massachusetts,200,child,6.6
+216,Massachusetts,225,child,6.4
+219,Massachusetts,250,child,5.9
+222,Massachusetts,275,child,5.5
+225,Massachusetts,300,child,5.4
+228,Massachusetts,325,child,5.1
+231,Massachusetts,350,child,4.9
+234,Massachusetts,375,child,4.5
+237,Massachusetts,400,child,4.4
+240,Massachusetts,425,child,4.0
+243,Massachusetts,450,child,3.8
+246,Massachusetts,475,child,3.6
+249,Massachusetts,500,child,3.4
+756,Michigan,0,child,10.9
+759,Michigan,25,child,10.8
+762,Michigan,50,child,10.1
+765,Michigan,75,child,9.5
+768,Michigan,100,child,8.8
+771,Michigan,125,child,8.0
+774,Michigan,150,child,7.3
+777,Michigan,175,child,6.8
+780,Michigan,200,child,6.5
+783,Michigan,225,child,6.3
+786,Michigan,250,child,6.1
+789,Michigan,275,child,5.5
+792,Michigan,300,child,5.2
+795,Michigan,325,child,5.0
+798,Michigan,350,child,4.8
+801,Michigan,375,child,4.5
+804,Michigan,400,child,4.5
+807,Michigan,425,child,4.2
+810,Michigan,450,child,4.0
+813,Michigan,475,child,3.8
+816,Michigan,500,child,3.7
+882,Minnesota,0,child,6.3
+885,Minnesota,25,child,6.0
+888,Minnesota,50,child,5.5
+891,Minnesota,75,child,4.6
+894,Minnesota,100,child,4.3
+897,Minnesota,125,child,4.1
+900,Minnesota,150,child,3.8
+903,Minnesota,175,child,3.5
+906,Minnesota,200,child,3.1
+909,Minnesota,225,child,3.1
+912,Minnesota,250,child,2.7
+915,Minnesota,275,child,1.7
+918,Minnesota,300,child,1.6
+921,Minnesota,325,child,1.5
+924,Minnesota,350,child,1.4
+927,Minnesota,375,child,1.3
+930,Minnesota,400,child,1.3
+933,Minnesota,425,child,1.3
+936,Minnesota,450,child,1.2
+939,Minnesota,475,child,1.2
+942,Minnesota,500,child,0.9
+2079,Mississippi,0,child,16.8
+2082,Mississippi,25,child,15.7
+2085,Mississippi,50,child,14.4
+2088,Mississippi,75,child,13.0
+2091,Mississippi,100,child,12.6
+2094,Mississippi,125,child,11.3
+2097,Mississippi,150,child,10.6
+2100,Mississippi,175,child,9.6
+2103,Mississippi,200,child,8.9
+2106,Mississippi,225,child,8.2
+2109,Mississippi,250,child,7.7
+2112,Mississippi,275,child,7.3
+2115,Mississippi,300,child,7.3
+2118,Mississippi,325,child,6.5
+2121,Mississippi,350,child,5.6
+2124,Mississippi,375,child,5.6
+2127,Mississippi,400,child,5.3
+2130,Mississippi,425,child,5.1
+2133,Mississippi,450,child,4.7
+2136,Mississippi,475,child,4.3
+2139,Mississippi,500,child,3.9
+1008,Missouri,0,child,11.3
+1011,Missouri,25,child,11.1
+1014,Missouri,50,child,10.2
+1017,Missouri,75,child,10.0
+1020,Missouri,100,child,9.1
+1023,Missouri,125,child,8.6
+1026,Missouri,150,child,8.0
+1029,Missouri,175,child,7.7
+1032,Missouri,200,child,7.1
+1035,Missouri,225,child,6.5
+1038,Missouri,250,child,6.1
+1041,Missouri,275,child,5.4
+1044,Missouri,300,child,4.8
+1047,Missouri,325,child,4.5
+1050,Missouri,350,child,4.4
+1053,Missouri,375,child,4.4
+1056,Missouri,400,child,4.4
+1059,Missouri,425,child,4.1
+1062,Missouri,450,child,4.0
+1065,Missouri,475,child,3.6
+1068,Missouri,500,child,3.6
+2394,Montana,0,child,9.6
+2397,Montana,25,child,9.2
+2400,Montana,50,child,8.6
+2403,Montana,75,child,8.1
+2406,Montana,100,child,7.9
+2409,Montana,125,child,7.2
+2412,Montana,150,child,6.9
+2415,Montana,175,child,6.8
+2418,Montana,200,child,6.2
+2421,Montana,225,child,5.5
+2424,Montana,250,child,5.2
+2427,Montana,275,child,5.0
+2430,Montana,300,child,4.7
+2433,Montana,325,child,4.7
+2436,Montana,350,child,4.6
+2439,Montana,375,child,4.4
+2442,Montana,400,child,3.9
+2445,Montana,425,child,3.8
+2448,Montana,450,child,3.8
+2451,Montana,475,child,3.5
+2454,Montana,500,child,3.1
+1197,Nebraska,0,child,10.1
+1200,Nebraska,25,child,9.4
+1203,Nebraska,50,child,8.7
+1206,Nebraska,75,child,8.0
+1209,Nebraska,100,child,7.3
+1212,Nebraska,125,child,6.5
+1215,Nebraska,150,child,5.8
+1218,Nebraska,175,child,5.5
+1221,Nebraska,200,child,5.0
+1224,Nebraska,225,child,4.4
+1227,Nebraska,250,child,4.2
+1230,Nebraska,275,child,4.1
+1233,Nebraska,300,child,3.8
+1236,Nebraska,325,child,3.8
+1239,Nebraska,350,child,3.3
+1242,Nebraska,375,child,3.3
+1245,Nebraska,400,child,3.0
+1248,Nebraska,425,child,2.9
+1251,Nebraska,450,child,2.8
+1254,Nebraska,475,child,2.4
+1257,Nebraska,500,child,2.3
+2835,Nevada,0,child,13.4
+2838,Nevada,25,child,12.3
+2841,Nevada,50,child,10.7
+2844,Nevada,75,child,10.4
+2847,Nevada,100,child,10.1
+2850,Nevada,125,child,9.6
+2853,Nevada,150,child,9.3
+2856,Nevada,175,child,8.8
+2859,Nevada,200,child,8.1
+2862,Nevada,225,child,7.8
+2865,Nevada,250,child,7.4
+2868,Nevada,275,child,7.1
+2871,Nevada,300,child,6.4
+2874,Nevada,325,child,6.3
+2877,Nevada,350,child,5.8
+2880,Nevada,375,child,5.6
+2883,Nevada,400,child,5.1
+2886,Nevada,425,child,4.3
+2889,Nevada,450,child,4.0
+2892,Nevada,475,child,3.8
+2895,Nevada,500,child,3.8
+63,New Hampshire,0,child,8.7
+66,New Hampshire,25,child,8.0
+69,New Hampshire,50,child,7.6
+72,New Hampshire,75,child,6.9
+75,New Hampshire,100,child,6.7
+78,New Hampshire,125,child,6.4
+81,New Hampshire,150,child,5.8
+84,New Hampshire,175,child,5.7
+87,New Hampshire,200,child,5.3
+90,New Hampshire,225,child,4.8
+93,New Hampshire,250,child,4.6
+96,New Hampshire,275,child,4.5
+99,New Hampshire,300,child,4.2
+102,New Hampshire,325,child,4.2
+105,New Hampshire,350,child,4.1
+108,New Hampshire,375,child,4.1
+111,New Hampshire,400,child,4.1
+114,New Hampshire,425,child,3.9
+117,New Hampshire,450,child,3.7
+120,New Hampshire,475,child,3.3
+123,New Hampshire,500,child,3.2
+441,New Jersey,0,child,15.1
+444,New Jersey,25,child,14.5
+447,New Jersey,50,child,14.1
+450,New Jersey,75,child,13.5
+453,New Jersey,100,child,13.0
+456,New Jersey,125,child,12.0
+459,New Jersey,150,child,11.2
+462,New Jersey,175,child,10.6
+465,New Jersey,200,child,9.7
+468,New Jersey,225,child,9.6
+471,New Jersey,250,child,9.2
+474,New Jersey,275,child,8.6
+477,New Jersey,300,child,8.2
+480,New Jersey,325,child,7.6
+483,New Jersey,350,child,7.1
+486,New Jersey,375,child,6.8
+489,New Jersey,400,child,6.7
+492,New Jersey,425,child,6.2
+495,New Jersey,450,child,5.6
+498,New Jersey,475,child,5.4
+501,New Jersey,500,child,4.9
+2646,New Mexico,0,child,13.8
+2649,New Mexico,25,child,12.8
+2652,New Mexico,50,child,11.8
+2655,New Mexico,75,child,11.2
+2658,New Mexico,100,child,10.4
+2661,New Mexico,125,child,9.9
+2664,New Mexico,150,child,9.1
+2667,New Mexico,175,child,8.6
+2670,New Mexico,200,child,8.0
+2673,New Mexico,225,child,7.5
+2676,New Mexico,250,child,6.9
+2679,New Mexico,275,child,5.7
+2682,New Mexico,300,child,5.4
+2685,New Mexico,325,child,5.1
+2688,New Mexico,350,child,4.7
+2691,New Mexico,375,child,4.3
+2694,New Mexico,400,child,4.2
+2697,New Mexico,425,child,4.0
+2700,New Mexico,450,child,3.7
+2703,New Mexico,475,child,3.4
+2706,New Mexico,500,child,3.0
+378,New York,0,child,16.3
+381,New York,25,child,15.6
+384,New York,50,child,14.9
+387,New York,75,child,13.8
+390,New York,100,child,13.3
+393,New York,125,child,12.8
+396,New York,150,child,12.0
+399,New York,175,child,11.0
+402,New York,200,child,10.1
+405,New York,225,child,9.6
+408,New York,250,child,9.1
+411,New York,275,child,8.5
+414,New York,300,child,8.4
+417,New York,325,child,7.9
+420,New York,350,child,7.8
+423,New York,375,child,7.5
+426,New York,400,child,7.3
+429,New York,425,child,7.0
+432,New York,450,child,6.7
+435,New York,475,child,6.5
+438,New York,500,child,6.0
+1638,North Carolina,0,child,15.3
+1641,North Carolina,25,child,14.3
+1644,North Carolina,50,child,13.1
+1647,North Carolina,75,child,12.0
+1650,North Carolina,100,child,11.0
+1653,North Carolina,125,child,10.2
+1656,North Carolina,150,child,9.4
+1659,North Carolina,175,child,8.7
+1662,North Carolina,200,child,8.1
+1665,North Carolina,225,child,7.8
+1668,North Carolina,250,child,7.3
+1671,North Carolina,275,child,6.6
+1674,North Carolina,300,child,5.9
+1677,North Carolina,325,child,5.5
+1680,North Carolina,350,child,5.3
+1683,North Carolina,375,child,4.8
+1686,North Carolina,400,child,4.3
+1689,North Carolina,425,child,4.0
+1692,North Carolina,450,child,4.0
+1695,North Carolina,475,child,3.6
+1698,North Carolina,500,child,3.4
+1071,North Dakota,0,child,11.3
+1074,North Dakota,25,child,10.1
+1077,North Dakota,50,child,9.3
+1080,North Dakota,75,child,8.8
+1083,North Dakota,100,child,8.1
+1086,North Dakota,125,child,8.1
+1089,North Dakota,150,child,7.5
+1092,North Dakota,175,child,6.8
+1095,North Dakota,200,child,6.1
+1098,North Dakota,225,child,5.7
+1101,North Dakota,250,child,5.6
+1104,North Dakota,275,child,5.6
+1107,North Dakota,300,child,5.5
+1110,North Dakota,325,child,5.0
+1113,North Dakota,350,child,4.9
+1116,North Dakota,375,child,4.6
+1119,North Dakota,400,child,4.4
+1122,North Dakota,425,child,3.8
+1125,North Dakota,450,child,3.2
+1128,North Dakota,475,child,3.2
+1131,North Dakota,500,child,3.2
+567,Ohio,0,child,11.9
+570,Ohio,25,child,11.2
+573,Ohio,50,child,10.2
+576,Ohio,75,child,9.5
+579,Ohio,100,child,8.5
+582,Ohio,125,child,7.9
+585,Ohio,150,child,7.6
+588,Ohio,175,child,7.1
+591,Ohio,200,child,6.6
+594,Ohio,225,child,6.1
+597,Ohio,250,child,5.6
+600,Ohio,275,child,5.4
+603,Ohio,300,child,4.8
+606,Ohio,325,child,4.4
+609,Ohio,350,child,3.8
+612,Ohio,375,child,3.4
+615,Ohio,400,child,3.4
+618,Ohio,425,child,3.3
+621,Ohio,450,child,3.0
+624,Ohio,475,child,2.7
+627,Ohio,500,child,2.4
+2268,Oklahoma,0,child,11.5
+2271,Oklahoma,25,child,11.0
+2274,Oklahoma,50,child,10.6
+2277,Oklahoma,75,child,9.9
+2280,Oklahoma,100,child,9.3
+2283,Oklahoma,125,child,8.9
+2286,Oklahoma,150,child,7.9
+2289,Oklahoma,175,child,7.1
+2292,Oklahoma,200,child,6.4
+2295,Oklahoma,225,child,5.9
+2298,Oklahoma,250,child,5.8
+2301,Oklahoma,275,child,5.4
+2304,Oklahoma,300,child,5.0
+2307,Oklahoma,325,child,4.8
+2310,Oklahoma,350,child,4.7
+2313,Oklahoma,375,child,4.2
+2316,Oklahoma,400,child,4.0
+2319,Oklahoma,425,child,3.6
+2322,Oklahoma,450,child,2.9
+2325,Oklahoma,475,child,2.9
+2328,Oklahoma,500,child,2.7
+2961,Oregon,0,child,12.7
+2964,Oregon,25,child,12.1
+2967,Oregon,50,child,11.1
+2970,Oregon,75,child,10.1
+2973,Oregon,100,child,9.3
+2976,Oregon,125,child,8.3
+2979,Oregon,150,child,7.8
+2982,Oregon,175,child,7.4
+2985,Oregon,200,child,7.3
+2988,Oregon,225,child,7.0
+2991,Oregon,250,child,6.6
+2994,Oregon,275,child,6.4
+2997,Oregon,300,child,5.7
+3000,Oregon,325,child,5.1
+3003,Oregon,350,child,5.1
+3006,Oregon,375,child,4.6
+3009,Oregon,400,child,4.5
+3012,Oregon,425,child,4.5
+3015,Oregon,450,child,4.3
+3018,Oregon,475,child,3.7
+3021,Oregon,500,child,3.6
+504,Pennsylvania,0,child,14.0
+507,Pennsylvania,25,child,13.1
+510,Pennsylvania,50,child,12.3
+513,Pennsylvania,75,child,11.9
+516,Pennsylvania,100,child,11.0
+519,Pennsylvania,125,child,10.1
+522,Pennsylvania,150,child,9.3
+525,Pennsylvania,175,child,8.7
+528,Pennsylvania,200,child,8.2
+531,Pennsylvania,225,child,8.1
+534,Pennsylvania,250,child,8.0
+537,Pennsylvania,275,child,7.4
+540,Pennsylvania,300,child,7.2
+543,Pennsylvania,325,child,6.5
+546,Pennsylvania,350,child,6.2
+549,Pennsylvania,375,child,5.8
+552,Pennsylvania,400,child,5.6
+555,Pennsylvania,425,child,5.3
+558,Pennsylvania,450,child,4.8
+561,Pennsylvania,475,child,4.4
+564,Pennsylvania,500,child,4.1
+252,Rhode Island,0,child,9.5
+255,Rhode Island,25,child,9.1
+258,Rhode Island,50,child,8.9
+261,Rhode Island,75,child,8.5
+264,Rhode Island,100,child,7.9
+267,Rhode Island,125,child,7.3
+270,Rhode Island,150,child,7.1
+273,Rhode Island,175,child,7.0
+276,Rhode Island,200,child,6.3
+279,Rhode Island,225,child,6.0
+282,Rhode Island,250,child,6.0
+285,Rhode Island,275,child,5.8
+288,Rhode Island,300,child,5.1
+291,Rhode Island,325,child,4.7
+294,Rhode Island,350,child,4.2
+297,Rhode Island,375,child,4.0
+300,Rhode Island,400,child,4.0
+303,Rhode Island,425,child,4.0
+306,Rhode Island,450,child,3.7
+309,Rhode Island,475,child,3.2
+312,Rhode Island,500,child,2.6
+1701,South Carolina,0,child,15.2
+1704,South Carolina,25,child,14.3
+1707,South Carolina,50,child,13.6
+1710,South Carolina,75,child,12.9
+1713,South Carolina,100,child,11.2
+1716,South Carolina,125,child,10.3
+1719,South Carolina,150,child,9.8
+1722,South Carolina,175,child,9.6
+1725,South Carolina,200,child,8.7
+1728,South Carolina,225,child,8.5
+1731,South Carolina,250,child,8.2
+1734,South Carolina,275,child,8.0
+1737,South Carolina,300,child,7.5
+1740,South Carolina,325,child,7.1
+1743,South Carolina,350,child,6.6
+1746,South Carolina,375,child,6.1
+1749,South Carolina,400,child,5.8
+1752,South Carolina,425,child,5.7
+1755,South Carolina,450,child,5.5
+1758,South Carolina,475,child,5.3
+1761,South Carolina,500,child,5.0
+1134,South Dakota,0,child,10.3
+1137,South Dakota,25,child,8.6
+1140,South Dakota,50,child,7.7
+1143,South Dakota,75,child,7.1
+1146,South Dakota,100,child,6.6
+1149,South Dakota,125,child,6.5
+1152,South Dakota,150,child,6.3
+1155,South Dakota,175,child,5.6
+1158,South Dakota,200,child,5.2
+1161,South Dakota,225,child,5.2
+1164,South Dakota,250,child,4.4
+1167,South Dakota,275,child,4.3
+1170,South Dakota,300,child,3.5
+1173,South Dakota,325,child,3.4
+1176,South Dakota,350,child,3.1
+1179,South Dakota,375,child,2.9
+1182,South Dakota,400,child,2.6
+1185,South Dakota,425,child,2.4
+1188,South Dakota,450,child,2.1
+1191,South Dakota,475,child,1.8
+1194,South Dakota,500,child,1.6
+1953,Tennessee,0,child,13.3
+1956,Tennessee,25,child,13.0
+1959,Tennessee,50,child,11.9
+1962,Tennessee,75,child,11.2
+1965,Tennessee,100,child,10.5
+1968,Tennessee,125,child,9.9
+1971,Tennessee,150,child,8.9
+1974,Tennessee,175,child,8.7
+1977,Tennessee,200,child,8.4
+1980,Tennessee,225,child,7.4
+1983,Tennessee,250,child,6.6
+1986,Tennessee,275,child,6.2
+1989,Tennessee,300,child,6.2
+1992,Tennessee,325,child,5.8
+1995,Tennessee,350,child,5.8
+1998,Tennessee,375,child,5.3
+2001,Tennessee,400,child,4.7
+2004,Tennessee,425,child,4.3
+2007,Tennessee,450,child,4.0
+2010,Tennessee,475,child,3.6
+2013,Tennessee,500,child,3.6
+2331,Texas,0,child,16.2
+2334,Texas,25,child,15.4
+2337,Texas,50,child,14.0
+2340,Texas,75,child,13.1
+2343,Texas,100,child,12.2
+2346,Texas,125,child,11.7
+2349,Texas,150,child,11.1
+2352,Texas,175,child,10.3
+2355,Texas,200,child,9.5
+2358,Texas,225,child,8.9
+2361,Texas,250,child,8.4
+2364,Texas,275,child,7.9
+2367,Texas,300,child,7.2
+2370,Texas,325,child,6.7
+2373,Texas,350,child,6.3
+2376,Texas,375,child,5.9
+2379,Texas,400,child,5.7
+2382,Texas,425,child,5.4
+2385,Texas,450,child,5.0
+2388,Texas,475,child,4.7
+2391,Texas,500,child,4.4
+2772,Utah,0,child,8.2
+2775,Utah,25,child,7.8
+2778,Utah,50,child,7.2
+2781,Utah,75,child,6.5
+2784,Utah,100,child,6.2
+2787,Utah,125,child,6.1
+2790,Utah,150,child,5.7
+2793,Utah,175,child,5.7
+2796,Utah,200,child,5.3
+2799,Utah,225,child,4.9
+2802,Utah,250,child,4.7
+2805,Utah,275,child,4.3
+2808,Utah,300,child,3.6
+2811,Utah,325,child,3.6
+2814,Utah,350,child,3.5
+2817,Utah,375,child,3.3
+2820,Utah,400,child,3.1
+2823,Utah,425,child,3.0
+2826,Utah,450,child,2.9
+2829,Utah,475,child,2.9
+2832,Utah,500,child,2.8
+126,Vermont,0,child,10.4
+129,Vermont,25,child,9.5
+132,Vermont,50,child,9.1
+135,Vermont,75,child,8.8
+138,Vermont,100,child,8.2
+141,Vermont,125,child,8.0
+144,Vermont,150,child,7.8
+147,Vermont,175,child,7.4
+150,Vermont,200,child,7.0
+153,Vermont,225,child,6.8
+156,Vermont,250,child,6.5
+159,Vermont,275,child,6.4
+162,Vermont,300,child,6.4
+165,Vermont,325,child,6.2
+168,Vermont,350,child,5.4
+171,Vermont,375,child,5.1
+174,Vermont,400,child,4.8
+177,Vermont,425,child,4.7
+180,Vermont,450,child,4.4
+183,Vermont,475,child,4.2
+186,Vermont,500,child,4.1
+1512,Virginia,0,child,14.9
+1515,Virginia,25,child,14.5
+1518,Virginia,50,child,13.9
+1521,Virginia,75,child,12.5
+1524,Virginia,100,child,11.9
+1527,Virginia,125,child,11.1
+1530,Virginia,150,child,10.5
+1533,Virginia,175,child,9.9
+1536,Virginia,200,child,9.7
+1539,Virginia,225,child,9.2
+1542,Virginia,250,child,8.6
+1545,Virginia,275,child,8.3
+1548,Virginia,300,child,7.7
+1551,Virginia,325,child,7.4
+1554,Virginia,350,child,7.2
+1557,Virginia,375,child,6.6
+1560,Virginia,400,child,5.8
+1563,Virginia,425,child,5.4
+1566,Virginia,450,child,5.0
+1569,Virginia,475,child,4.9
+1572,Virginia,500,child,4.9
+2898,Washington,0,child,10.9
+2901,Washington,25,child,10.5
+2904,Washington,50,child,9.3
+2907,Washington,75,child,8.5
+2910,Washington,100,child,8.1
+2913,Washington,125,child,7.8
+2916,Washington,150,child,7.2
+2919,Washington,175,child,6.9
+2922,Washington,200,child,6.7
+2925,Washington,225,child,6.5
+2928,Washington,250,child,6.0
+2931,Washington,275,child,5.6
+2934,Washington,300,child,5.5
+2937,Washington,325,child,4.7
+2940,Washington,350,child,4.5
+2943,Washington,375,child,4.2
+2946,Washington,400,child,4.1
+2949,Washington,425,child,4.0
+2952,Washington,450,child,3.8
+2955,Washington,475,child,3.7
+2958,Washington,500,child,3.6
+1575,West Virginia,0,child,16.0
+1578,West Virginia,25,child,15.1
+1581,West Virginia,50,child,14.5
+1584,West Virginia,75,child,13.2
+1587,West Virginia,100,child,12.3
+1590,West Virginia,125,child,11.7
+1593,West Virginia,150,child,10.8
+1596,West Virginia,175,child,10.2
+1599,West Virginia,200,child,9.6
+1602,West Virginia,225,child,9.0
+1605,West Virginia,250,child,7.9
+1608,West Virginia,275,child,7.5
+1611,West Virginia,300,child,6.8
+1614,West Virginia,325,child,5.9
+1617,West Virginia,350,child,5.5
+1620,West Virginia,375,child,5.0
+1623,West Virginia,400,child,4.5
+1626,West Virginia,425,child,4.3
+1629,West Virginia,450,child,4.2
+1632,West Virginia,475,child,4.0
+1635,West Virginia,500,child,3.7
+819,Wisconsin,0,child,8.1
+822,Wisconsin,25,child,7.7
+825,Wisconsin,50,child,6.9
+828,Wisconsin,75,child,6.1
+831,Wisconsin,100,child,5.6
+834,Wisconsin,125,child,5.6
+837,Wisconsin,150,child,5.4
+840,Wisconsin,175,child,4.8
+843,Wisconsin,200,child,4.5
+846,Wisconsin,225,child,4.4
+849,Wisconsin,250,child,4.3
+852,Wisconsin,275,child,4.3
+855,Wisconsin,300,child,4.1
+858,Wisconsin,325,child,3.7
+861,Wisconsin,350,child,3.3
+864,Wisconsin,375,child,2.9
+867,Wisconsin,400,child,2.9
+870,Wisconsin,425,child,2.7
+873,Wisconsin,450,child,2.5
+876,Wisconsin,475,child,2.4
+879,Wisconsin,500,child,2.2
+2520,Wyoming,0,child,10.1
+2523,Wyoming,25,child,9.3
+2526,Wyoming,50,child,8.9
+2529,Wyoming,75,child,8.3
+2532,Wyoming,100,child,7.9
+2535,Wyoming,125,child,7.8
+2538,Wyoming,150,child,7.0
+2541,Wyoming,175,child,6.5
+2544,Wyoming,200,child,6.1
+2547,Wyoming,225,child,6.0
+2550,Wyoming,250,child,5.6
+2553,Wyoming,275,child,5.4
+2556,Wyoming,300,child,4.9
+2559,Wyoming,325,child,4.5
+2562,Wyoming,350,child,4.5
+2565,Wyoming,375,child,4.4
+2568,Wyoming,400,child,4.2
+2571,Wyoming,425,child,3.9
+2574,Wyoming,450,child,3.6
+2577,Wyoming,475,child,3.4
+2580,Wyoming,500,child,2.8
